@@ -6,8 +6,7 @@
 
 <h5>Actitudes o Herramientas </h5>
 <ul>
-  <li> ![image](https://github.com/DonBeta/DonBeta/assets/146739071/dfaea7c8-da9e-4d4d-9ccc-2187efb06ca7)
-Pynthon</li>
+  <li>Pynthon</li>
   <li>R</li>
   <li>React</li>
   <li>JavaScript</li>
