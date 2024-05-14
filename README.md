@@ -2,6 +2,7 @@
 
 <h4>Sobre Mi</h4>
 <p>Con amor a la tecnologia llevo varios años formandome paso a paso para llegar a los objetivo de ser un Data scientist</p>
+<a href="https://www.linkedin.com/in/wcarlosbetancourtv/" target="_blank">Carlos Betancourt en LinkedIn</a>
 
 <h5>Actitudes o Herramientas </h5>
 <ol>
