@@ -6,7 +6,7 @@
 
 <h5>Actitudes o Herramientas </h5>
 <ul>
-  <li>Pynthon</li>
+  <li> https://iconos8.es/icon/12584/python Pynthon</li>
   <li>R</li>
   <li>React</li>
   <li>JavaScript</li>
