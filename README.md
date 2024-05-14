@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/wcarlosbetancourtv/" target="_blank">Carlos Betancourt en LinkedIn</a>
 
 <h5>Actitudes o Herramientas </h5>
-<ol>
+<ul>
   <li>Pynthon</li>
   <li>R</li>
   <li>React</li>
@@ -14,14 +14,17 @@
   <li>Flask</li>
   <li>CSS</li>
   <li>Node-Red</li>
-</ol>
+</ul>
 
 <h5>Estudios</h5>
-<ol>
+<ul>
   <li>Full Stack Developer</li>
-  <li>CCNA 200-301</li>
-  <li>Experto Iot, Big Data e Indistria 4.0</li>
-</ol>
+  <li>Redes y CCNA</li>
+  <li>Indistria 4.0</li>
+  <li>Big Data</li>
+  <li>Internet de las Cosas (IoT)</li>
+  
+</ul>
 
 <h5>Actualidad</h5>
 <p>Acabando de terminar la preparacion de Full Stack Developer, y trabajando en un proyecto para cada una de las habilidades y herramientas aprendidas</p>
